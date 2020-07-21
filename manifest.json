@@ -1,0 +1,6 @@
+{
+  "name": "Encourage Me",
+  "version": "1.0",
+  "description": "This extension makes use of the affirmations API made by @annthurium. It gives you words of encouragement every time you click on it.",
+  "manifest_version": 1
+}
