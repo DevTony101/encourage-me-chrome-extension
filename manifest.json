@@ -1,8 +1,14 @@
 {
   "name": "Encourage Me",
-  "version": "1.0",
+  "version": "0.0.1",
   "description": "This extension makes use of the affirmations API made by user @annthurium on GitHub. It gives you words of encouragement every time you click on it.",
   "manifest_version": 2,
+  "icons": {
+    "16": "assets/images/icon16.png",
+    "32": "assets/images/icon32.png",
+    "64": "assets/images/icon64.png",
+    "128": "assets/images/icon128.png"
+  },
   "background": {
     "scripts": ["js/background.js"],
     "persistent": false
